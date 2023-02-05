@@ -16,7 +16,9 @@ Make your mindstorm more useful by turning it into a lamp !
 - Enjoy your lamp !
 
 ## How to use it
+Start the `main.py` file on the brick.
 
+## Controls
 ### With the remote control
 - Press the top button on the remote control to turn on the lamp
 
