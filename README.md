@@ -1,5 +1,3 @@
-![Mindstorm lamp](https://github.com/Nonolanlan1007/mindstorm-lamp/blob/3e889c00926f71e53a94539fa6691bebddfb7d0f/mindstorm%20lamp.JPG)
-
 # Mindstorm lamp
 Make your mindstorm more useful by turning it into a lamp !
 
@@ -33,3 +31,6 @@ If remote control is enabled, the center button will not work.
 
 ## Issue
 If you have any issue, please open an issue by [clicking here](https://github.com/Nonolanlan1007/mindstorm-lamp/issues/new).
+
+
+![Mindstorm lamp](https://github.com/Nonolanlan1007/mindstorm-lamp/blob/3e889c00926f71e53a94539fa6691bebddfb7d0f/mindstorm%20lamp.JPG)
