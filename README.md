@@ -1,3 +1,5 @@
+![Mindstorm lamp](https://github.com/Nonolanlan1007/mindstorm-lamp/blob/3e889c00926f71e53a94539fa6691bebddfb7d0f/mindstorm%20lamp.JPG)
+
 # Mindstorm lamp
 Make your mindstorm more useful by turning it into a lamp !
 
